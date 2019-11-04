@@ -17,7 +17,7 @@ public class JFrameStudy extends JFrame {
         setVisible(true);
     }
 
-    public static void main(String[] args){
+/*    public static void main(String[] args){
         //new JFrameStudy();
         JFrame jFrame = new JFrame("Java第二个GUI程序");
         jFrame.setBounds(300,100,400,200);
@@ -27,5 +27,5 @@ public class JFrameStudy extends JFrame {
         jPanel.add(jLabel);
         jFrame.add(jPanel);
         jFrame.setVisible(true);
-    }
+    }*/
 }
