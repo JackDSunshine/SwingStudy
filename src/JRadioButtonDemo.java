@@ -16,7 +16,7 @@ public class JRadioButtonDemo {
         JRadioButton rb3=new JRadioButton("秋天",true);    //创建JRadioButton对象
         JRadioButton rb4=new JRadioButton("冬天");    //创建JRadioButton对象
         label1.setFont(new Font("楷体",Font.BOLD,16));    //修改字体样式
-        
+
         ButtonGroup group=new ButtonGroup();
         //添加JRadioButton到ButtonGroup中,保证只能选择一个按钮
         group.add(rb1);
