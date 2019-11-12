@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a31954-548f-49f4-9dd6-24cb72c2f7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CardLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JlabelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JTextFieldDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SwingStudy/JFrameStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SwingStudy/JFrameStudy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFrameStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JFrameStudy.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +27,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetcodeTrain" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JlabelDemo">
+  <component name="RunManager" selected="Application.JTextFieldDemo">
     <configuration name="CardLayoutDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CardLayoutDemo" />
       <module name="SwingStudy" />
@@ -59,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JTextFieldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JTextFieldDemo" />
+      <module name="SwingStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JlabelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JlabelDemo" />
       <module name="SwingStudy" />
@@ -68,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JTextFieldDemo" />
         <item itemvalue="Application.JlabelDemo" />
         <item itemvalue="Application.CardLayoutDemo" />
         <item itemvalue="Application.JFrameStudy" />
@@ -84,7 +92,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572885526748</updated>
-      <workItem from="1572885531703" duration="2706000" />
+      <workItem from="1572885531703" duration="2773000" />
+      <workItem from="1573288829562" duration="930000" />
+      <workItem from="1573573568476" duration="1259000" />
     </task>
     <servers />
   </component>
@@ -96,7 +106,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
