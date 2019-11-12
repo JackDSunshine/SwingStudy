@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a31954-548f-49f4-9dd6-24cb72c2f7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JCheckBoxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JTextAreaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JRadioButtonDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,16 +43,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JCheckBoxDemo">
-    <configuration name="CardLayoutDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CardLayoutDemo" />
+  <component name="RunManager" selected="Application.JRadioButtonDemo">
+    <configuration name="JCheckBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JCheckBoxDemo" />
       <module name="SwingStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JCheckBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JCheckBoxDemo" />
+    <configuration name="JRadioButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JRadioButtonDemo" />
       <module name="SwingStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JRadioButtonDemo" />
         <item itemvalue="Application.JCheckBoxDemo" />
         <item itemvalue="Application.JTextAreaDemo" />
         <item itemvalue="Application.JTextFieldDemo" />
         <item itemvalue="Application.JlabelDemo" />
-        <item itemvalue="Application.CardLayoutDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +101,7 @@
       <updated>1572885526748</updated>
       <workItem from="1572885531703" duration="2773000" />
       <workItem from="1573288829562" duration="930000" />
-      <workItem from="1573573568476" duration="2533000" />
+      <workItem from="1573573568476" duration="3080000" />
     </task>
     <servers />
   </component>
