@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a31954-548f-49f4-9dd6-24cb72c2f7e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SampeTest/SampeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JListDemo2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +31,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetcodeTrain" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SampeTest" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -43,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JListDemo2">
+  <component name="RunManager" selected="Application.SampeDemo">
     <configuration name="ActionListenerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ActionListenerDemo" />
       <module name="SwingStudy" />
@@ -65,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JListDemo1" />
-      <module name="SwingStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JListDemo2" />
       <module name="SwingStudy" />
@@ -79,13 +77,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SampeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SampeTest.SampeDemo" />
+      <module name="SwingStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SampeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SampeDemo" />
         <item itemvalue="Application.JListDemo2" />
         <item itemvalue="Application.FocusListenerDemo" />
         <item itemvalue="Application.ActionListenerDemo" />
         <item itemvalue="Application.CalculatorDemo" />
-        <item itemvalue="Application.JListDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +113,7 @@
       <workItem from="1572885531703" duration="2773000" />
       <workItem from="1573288829562" duration="930000" />
       <workItem from="1573573568476" duration="4358000" />
-      <workItem from="1573648371753" duration="4581000" />
+      <workItem from="1573648371753" duration="7039000" />
     </task>
     <servers />
   </component>
