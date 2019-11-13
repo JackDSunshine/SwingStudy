@@ -23,7 +23,7 @@ public class CalculatorDemo extends JFrame {
 
         JPanel panel1=new JPanel();    //新建面板用于保存文本框
         contentPane.add(panel1,BorderLayout.NORTH);    //将面板放置在边界布局的北部
-        
+
         textField=new JTextField();    //新建文本框
         textField.setHorizontalAlignment(SwingConstants.RIGHT);    //文本框中的文本使用右对齐
         panel1.add(textField);    //将文本框增加到面板中
