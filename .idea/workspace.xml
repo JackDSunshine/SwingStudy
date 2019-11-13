@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a31954-548f-49f4-9dd6-24cb72c2f7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SampeTest/SampeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JMenuDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JSliderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextFileOpener/TextFileOpener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ToolBarDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,30 +51,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SampeDemo">
-    <configuration name="ActionListenerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ActionListenerDemo" />
+  <component name="RunManager" selected="Application.TextFileOpener">
+    <configuration name="JMenuDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JMenuDemo1" />
       <module name="SwingStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorDemo" />
-      <module name="SwingStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FocusListenerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FocusListenerDemo" />
-      <module name="SwingStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JListDemo2" />
+    <configuration name="JSliderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JSliderDemo" />
       <module name="SwingStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,13 +79,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TextFileOpener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextFileOpener.TextFileOpener" />
+      <module name="SwingStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TextFileOpener.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolBarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToolBarDemo" />
+      <module name="SwingStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextFileOpener" />
+        <item itemvalue="Application.ToolBarDemo" />
+        <item itemvalue="Application.JMenuDemo1" />
+        <item itemvalue="Application.JSliderDemo" />
         <item itemvalue="Application.SampeDemo" />
-        <item itemvalue="Application.JListDemo2" />
-        <item itemvalue="Application.FocusListenerDemo" />
-        <item itemvalue="Application.ActionListenerDemo" />
-        <item itemvalue="Application.CalculatorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +122,7 @@
       <workItem from="1572885531703" duration="2773000" />
       <workItem from="1573288829562" duration="930000" />
       <workItem from="1573573568476" duration="4358000" />
-      <workItem from="1573648371753" duration="7039000" />
+      <workItem from="1573648371753" duration="9214000" />
     </task>
     <servers />
   </component>
