@@ -1,5 +1,7 @@
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 
 /**
@@ -36,6 +38,18 @@ public class JListDemo2 extends JFrame {
         listData[5]="《PHP编程词典》";
         listData[6]="《C++编程词典》";
         list.setListData(listData);
+
+        list.addListSelectionListener(new ListSelectionListener()
+        {
+            public void valueChanged(ListSelectionEvent e)
+            {
+                do_list_valueChanged(e);
+            }
+
+            private void do_list_valueChanged(ListSelectionEvent e) {
+                label.setText("感谢您购买："+list.getSelectedValue());
+            }
+        });
     };
     public static void main(String[] args)
     {
